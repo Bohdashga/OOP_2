@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\m\source\repos\OOP_4\main.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Ticket.cpp
+  Создание кода...
+  OOP_4.vcxproj -> C:\Users\m\source\repos\OOP_4\Debug\OOP_4.exe

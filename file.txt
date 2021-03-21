@@ -1,0 +1,17 @@
+Tickets:
+0. Number: 136
+Controlled: -
+Depart station: djfd
+Depart date: 123/123/123  41213:123
+Arrive station: fdskjfsd
+Arrive date: 12/132/123123  3:321
+Race number: 1123
+
+1. Number: 211
+Controlled: -
+Depart station: dsjfn
+Depart date: 455/134/123  657:878
+Arrive station: vmndjf
+Arrive date: 35/345/1345  45:464
+Race number: 245
+
